@@ -80,12 +80,14 @@ Project ini mengimplementasikan berbagai konsep penting dalam pengembangan web, 
 ## 📂 Struktur Project
 
 ```plaintext
-habit-tracker/
-│
-├── index.html      # Halaman utama
-├── style.css       # Styling aplikasi
-├── script.js       # Logic utama aplikasi
-└── README.md       # Dokumentasi project
+habit-tracker/ 
+│ 
+├── index.html # Halaman utama 
+├── history.html # Halaman riwayat habit 
+├── style.css # Styling aplikasi 
+├── script.js # Logic utama aplikasi 
+├── history.js # Logic untuk halaman history 
+└── README.md # Dokumentasi project
 ```
 
 ---

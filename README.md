@@ -5,7 +5,10 @@ Aplikasi web sederhana untuk mencatat aktivitas harian (habit tracker) yang dile
 Aplikasi ini dibuat menggunakan **JavaScript murni (vanilla JS)** tanpa framework, dengan fokus pada manipulasi DOM, pengelolaan state, dan penyimpanan data menggunakan localStorage.
 
 ---
+## 🌐 Live Demo
 
+https://yendy-habbit-tracker.netlify.app/
+---
 ## 🚀 Fitur Utama
 
 ### ✅ Checklist Harian
@@ -123,6 +126,7 @@ Beberapa fitur yang dapat ditambahkan di masa depan:
 * Export / import data
 
 ---
+
 
 ## 🙌 Penutup
 

@@ -36,10 +36,11 @@ Aplikasi ini dibuat menggunakan **JavaScript murni (vanilla JS)** tanpa framewor
 
 ---
 
-### 📅 Reset Harian Otomatis
+### Penyimpanan Data per Hari
 
-* Setiap hari, semua checklist dan catatan akan di-reset
-* Sistem mendeteksi perubahan tanggal untuk melakukan reset otomatis
+* Data checklist disimpan berdasarkan tanggal saat ini
+* Setiap tanggal memiliki riwayat task dan catatannya sendiri
+* Saat hari berganti, aplikasi akan menampilkan data untuk tanggal baru
 
 ---
 
